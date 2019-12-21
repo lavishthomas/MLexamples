@@ -8,7 +8,6 @@ Notes:
 4.	\### Represents in-line comments, # can be ignored as it is test prints
 
 Contact:
-Lavish Thomas
-L00150445@student.lyit.ie
+Lavish Thomas,
+L00150445@student.lyit.ie,
 lavishthomas@gmail.com
-+353-894934334
