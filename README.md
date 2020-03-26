@@ -5,6 +5,9 @@ Notes:
 3.	All Files can be directly run without any modifications.
 4.	\### Represents in-line comments, # can be ignored as it is test prints
 
+## Discalimer :
+Any direct adaptation of the file or the dataset will be given a direct zero marks. 
+
 Contact:
 Lavish Thomas,
 L00150445@student.lyit.ie,
