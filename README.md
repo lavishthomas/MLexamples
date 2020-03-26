@@ -9,6 +9,5 @@ Notes:
 Any direct adaptation of the file or the dataset will be given a direct zero marks. 
 
 Contact:
-Lavish Thomas,
-L00150445@student.lyit.ie,
+Lavish Thomas
 lavishthomas@gmail.com
